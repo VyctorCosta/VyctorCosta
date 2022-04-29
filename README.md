@@ -14,9 +14,6 @@ Here are my social networks.
 <a href="https://t.me/Vyctao" target="_blank">
   <img align="left" alt="Vyctor's Telegram" width="117px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://twitter.com/vyctao_lindo" target="_blank">
-  <img align="left" alt="Vyctor's Twitter" width="107px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
 <br />
 <br />
