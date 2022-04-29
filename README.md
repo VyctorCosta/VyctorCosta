@@ -57,9 +57,10 @@ Here are my social networks.
 
 <br />
 <br />
-
-### :clock2: Time Spent in Languages:
 <br />
+
+<details>
+  <summary><h2>:clock2: Time Spent in Languages:</h2></summary>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VyctorCosta&)](https://github.com/anuraghazra/github-readme-stats&theme=midnight-purple" />
