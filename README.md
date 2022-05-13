@@ -51,15 +51,3 @@ Here are my social networks.
   <img align="left" alt="Pop!_OS Logo" width="107px" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
   <img align="left" alt="Windows Logo" width="120px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
-
-<br />
-<br />
-<br />
-
-<details>
-  <summary><h2>:clock2: Time Spent in Languages:</h2></summary>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VyctorCosta&)](https://github.com/anuraghazra/github-readme-stats&theme=midnight-purple" />
-</div>
-
