@@ -3,7 +3,7 @@
 </h1>
 
 ### I'm Vyctor Costa undergraduate student in information systems from UFRPE, passionate about the world of technology and the changes that can be made with it. I am currently a Full Stack Developer at junior company Seed a Bit Tecnologia focused on React with Typescript and Nodejs.
-<img src="https://badges.pufler.dev/visits/VyctorCosta/VyctorCosta?logo=google-analytics&labelColor=0D0D0F" />
+[![wakatime](https://wakatime.com/badge/user/a01aeb28-5f1e-4476-aaf5-1a11fd43bada.svg)](https://wakatime.com/@a01aeb28-5f1e-4476-aaf5-1a11fd43bada)
 <br />
 
 Here are my social networks.
