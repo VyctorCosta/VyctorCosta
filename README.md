@@ -2,7 +2,7 @@
   < Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> />
 </h1>
 
-### I'm Vyctor Costa undergraduate student in information systems from UFRPE, passionate about the world of technology and the changes that can be made with it. I am currently a Full Stack Developer at junior company Seed a Bit Tecnologia focused on React with Typescript and Nodejs.
+### I'm Vyctor Costa undergraduate student in information systems from UFRPE, passionate about the world of technology and the changes that can be made with it. I am currently a Junior Front-end Developer at Surfix Data Center focused on React with Typescript and Nodejs.
 [![wakatime](https://wakatime.com/badge/user/a01aeb28-5f1e-4476-aaf5-1a11fd43bada.svg)](https://wakatime.com/@a01aeb28-5f1e-4476-aaf5-1a11fd43bada)
 <br />
 
